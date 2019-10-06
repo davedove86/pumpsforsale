@@ -17,12 +17,6 @@
 		"oAP": "/dist/cookies.html",
 		"oF": 0
 		},
-	"/dist": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/dist/dist",
-		"oF": 0
-		},
 	"/footer.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -400,6 +394,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/src/assets/img/speedy-logo.png": {
+		"ft": 32768,
+		"iS": 108729,
+		"oA": 0,
+		"oAP": "/dist/assets/img/speedy-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/src/assets/img/webclip.png": {
 		"ft": 32768,
 		"iS": 11605,
@@ -444,7 +449,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-doge",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 592084330.42909503
+	"lastBuiltDate": 592084524.79614103
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
