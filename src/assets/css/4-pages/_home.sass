@@ -1,0 +1,174 @@
+#sell
+ text-align: center
+
+ p
+  max-width: 434px
+  margin: 15px auto 0 auto
+
+
+ .sell-flex
+  display: flex
+  flex-direction: row
+  justify-content: center
+  flex-wrap: wrap
+
+  img
+   max-width: 295px
+   max-height: 295px
+   margin: 30px 20px
+
+.contact-banner
+ background-image: linear-gradient(180deg, #F7A700 0%, #ED6E00 100%)
+ font-size: 20px
+ color: #FFFFFF
+ text-align: center
+
+ .banner-flex
+  display: flex
+  flex-direction: row
+  flex-wrap: wrap
+  justify-content: space-between
+  align-items: center
+  text-transform: uppercase
+  padding: 10px 0
+
+  h3
+   font-weight: 300
+   margin: 0
+ 
+#about
+
+ .about-flex
+  display: flex
+  flex-wrap: wrap
+  justify-content: space-between
+  align-items: center
+
+  p
+   max-width: 428px
+
+  img
+   max-width: 528px
+
+#services
+ background: url(../img/services-bg.jpg)
+ background-repeat: no-repeat
+ background-size: cover
+ padding: 50px 0
+ color: #fff
+
+ .white-text
+  text-align: center
+
+ .services-flex
+  display: flex
+  flex-direction: row
+  flex-wrap: wrap
+  justify-content: space-around
+  padding: 50px 0
+
+  .service-item
+   max-width: 250px
+   text-align: center
+   margin: 20px 0
+
+   img
+    width: 150px
+
+   h3
+    font: 
+     size: 23px
+    text-transform: uppercase
+    margin: 20px 0 10px 0
+
+#testimonials
+   text-align: center
+
+   .carousel-inner
+      max-width: 600px
+      margin: 50px auto 50px auto
+      img
+         width: 150px
+         display: block
+         margin: 0 auto 30px auto
+      
+      .company-name
+         font-weight: 700
+         padding-top: 20px
+
+#contact
+
+ p
+  text-align: center
+
+ .contact-wrap
+  display: flex
+  justify-content: space-around
+  flex-wrap: wrap
+  padding: 50px 0
+
+  .contact-item
+
+   .contact-image
+    width: 256px
+    margin-top: 50px
+   
+   form
+    input, textarea
+     display: block
+     border: 2px solid #9A9A9A
+     width: 428px
+     margin-bottom: 20px
+     padding: 10px
+
+    button
+     padding: 10px 40px
+    
+   .contact-icon-wrap
+    a
+     display: flex
+     align-items: center
+     text-decoration: none
+     color: $text-color
+     margin-bottom: 40px
+
+     img
+      width: 40px
+      margin-right: 20px
+
+@media (max-width: 700px)
+ #about
+
+  .about-flex
+   text-align: center
+   margin: 0 auto
+
+   .flex-item
+    margin: 0 auto
+
+    img
+     width: 300px
+ 
+ .contact-banner
+  padding: 20px 0 0 0
+  
+  .banner-flex
+   display: block
+
+ #contact
+  text-align: center
+
+  .contact-wrap
+   flex-direction: column-reverse
+
+   .contact-item
+    padding: 0 0 30px 0
+    margin: 0 auto
+
+    .contact-image
+
+   
+    form
+     padding-top: 50px 0
+     input, textarea
+      max-width: 400px
