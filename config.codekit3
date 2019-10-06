@@ -17,6 +17,12 @@
 		"oAP": "/dist/cookies.html",
 		"oF": 0
 		},
+	"/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/dist/dist",
+		"oF": 0
+		},
 	"/footer.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -75,6 +81,14 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/sitemap.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dist/sitemap.xml",
+		"oF": 0
 		},
 	"/src/assets/css/0-tools/_normalize.scss": {
 		"aP": 0,
@@ -449,7 +463,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-doge",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 592084524.79614103
+	"lastBuiltDate": 592085313.729195
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
