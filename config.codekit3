@@ -202,6 +202,14 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"/src/assets/img/.services-bg.jpg.icloud": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/.services-bg.jpg.icloud",
+		"oF": 0
+		},
 	"/src/assets/img/about-image.jpg": {
 		"ft": 16384,
 		"iS": 381225,
@@ -394,17 +402,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/src/assets/img/services-bg.jpg": {
-		"ft": 16384,
-		"iS": 2163765,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/dist/assets/img/services-bg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
 	"/src/assets/img/servicing-icon.png": {
 		"ft": 32768,
 		"iS": 12056,
@@ -471,7 +468,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-doge",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 595798619.87549901
+	"lastBuiltDate": 600707817.44682896
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
